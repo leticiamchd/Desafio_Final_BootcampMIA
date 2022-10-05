@@ -9,6 +9,8 @@ Quem faz mais hora extra costuma sair mais? Tem relação com o salário? Quais 
 
 # Links
 
+* [Apresentação](https://github.com/leticiamchd/Desafio_Final_BootcampMIA/blob/main/Apresentacao_MIA_Grupo2.pdf)
 * [Código](https://github.com/leticiamchd/Desafio_Final_BootcampMIA/blob/main/C%C3%B3digos/Codigo_Final__Desafio__BootcampMIA.ipynb)
 * [Gráficos](https://github.com/leticiamchd/Desafio_Final_BootcampMIA/blob/main/C%C3%B3digos/Graficos_ProjetoFinal_BootcampMIA.ipynb)
+
 
